@@ -1,4 +1,4 @@
-kuralabs deployment_1
+Deployment-1
 
 This deployment will walk you through
 setting up your pipeline. Take notes of each main step of the pipeline.
