@@ -1,7 +1,5 @@
-Deployment-1
+# Deployment Documentation 
 
 This deployment will walk you through
-setting up your pipeline. Take notes of each main step of the pipeline.
-Observe all the tools being used in the pipeline.
-
-CI/CD pipeline deployment 1
+setting up your pipeline using Jenkins
+and elastic beanstalk. 
